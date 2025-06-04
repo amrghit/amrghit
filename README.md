@@ -19,30 +19,23 @@
 - 👨‍💻 Check out my university profile at https://en.unimib.it/amr-saad-shehata-rizk-ghit/ to see some of the projects I've worked on.
 
 
-### Connect with me:
+### ☎️ Connect with me
 
 <a href="https://www.linkedin.com/in/amr-ghit-333280364" target="_blank">
   <img src="https://img.shields.io/badge/-Amr%20Ghit-0077B5?style=for-the-badge"/>
 </a>
 
-
-
-### Stay updated on my research activities:
+### 📻 Stay updated on my research activities
 <a href="https://scholar.google.com/citations?user=CRUzeokAAAAJ&hl=en" target="_blank">
   <img src="https://img.shields.io/badge/-Amr%20Ghit-28a745?style=for-the-badge"/>
 </a>
 
-
-
-
 ### 👩🏻‍💻 &nbsp;Technical Skills
-![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-
-
+![R](https://img.shields.io/badge/-R-5A4FCF?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-FFD343?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-FA7343?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-B0B0B0?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-6C757D?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
