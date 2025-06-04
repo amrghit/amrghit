@@ -21,7 +21,11 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/amr-ghit-333280364" target="_blank"><img src="https://img.shields.io/badge/-Amr%20Ghit-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/amr-ghit-333280364" target="_blank">
+  <img src="https://img.shields.io/badge/-Amr%20Ghit-0077B5?style=for-the-badge"/>
+</a>
+
+
 
 ### Stay updated on my research activities:
 <a href="https://scholar.google.com/citations?user=CRUzeokAAAAJ&hl=en" target="_blank">
