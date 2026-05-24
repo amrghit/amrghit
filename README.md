@@ -12,7 +12,7 @@
 </p> 
 
 - 🤵🏻 I'm a Postdoctoral Researcher at the University of Milano-Bicocca in Milan, Italy.
-- 👨‍🔬 I specialize in bioinformatics, neuroscience, cancer immunology, and spatial transcriptomics
+- 👨‍🔬 I specialize in bioinformatics-single cell analysis, neuroscience, cancer immunology.
 - 👨‍💻 As a bioinformatician, I'm continually learning and exploring new technologies to enhance my skills and stay at the forefront of the field.
 - 💬 Ask me about my experience with R, Python, Bash.
 - ⚡ Fun Fact: Swimming sharpens my thinking for tackling research challenges.
